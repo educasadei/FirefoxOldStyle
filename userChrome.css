@@ -2,3 +2,8 @@
 .titlebar-spacer[type="pre-tabs"]{
   width: 3px !important;
 }
+
+/* Make the border radius of tabs smaller */
+.tabbrowser-tab .tab-background {
+    border-radius: 5px !important;
+}
