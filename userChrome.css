@@ -1,8 +1,4 @@
-/* Drag Space */
+/* Make the Drag Space smaller */
 .titlebar-spacer[type="pre-tabs"]{
-  width: 0px !important;
-}
-
-#TabsToolbar {
-    margin-left: 1px;
+  width: 3px !important;
 }
