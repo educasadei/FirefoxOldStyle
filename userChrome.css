@@ -1,0 +1,8 @@
+/* Drag Space */
+.titlebar-spacer[type="pre-tabs"]{
+  width: 0px !important;
+}
+
+#TabsToolbar {
+    margin-left: 1px;
+}
